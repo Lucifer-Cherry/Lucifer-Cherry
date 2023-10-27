@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucifer-Cherry
 - 👀 I’m interested in data and technology
-- 🌱 I’m currently learning data science and visulization
+- 🌱 I’m currently learning data science and visualization
 
 <!---
 Lucifer-Cherry/Lucifer-Cherry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
